@@ -33,12 +33,12 @@ cd Crypto-Website
 
 Simply open index.html in your browser.
 
-
 --
 
 📸 Screenshots
 
 
+<img width="1920" height="922" alt="cry" src="https://github.com/user-attachments/assets/bda0df17-9e18-428f-a310-0e995d11a007" />
 
 --
 
